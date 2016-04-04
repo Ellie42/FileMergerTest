@@ -1,0 +1,4203 @@
+<?xml version="1.0"?>
+<Sales>
+    <Sale>
+        <Transaction_date>1/26/09 10:24</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Eleanor</Name>
+        <City>Vancouver</City>
+        <State>British Columbia</State>
+        <Country>Canada</Country>
+        <Account_Created>12/1/08 18:30</Account_Created>
+        <Last_Login>1/26/09 10:12</Last_Login>
+        <Latitude>49.25</Latitude>
+        <Longitude>-123.1333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 8:58</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Miss</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/26/09 8:46</Account_Created>
+        <Last_Login>1/26/09 11:14</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 17:51</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Marie</Name>
+        <City>Dickerson                   </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>1/13/06 9:38</Account_Created>
+        <Last_Login>1/26/09 11:35</Last_Login>
+        <Latitude>39.22</Latitude>
+        <Longitude>-77.42444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 20:16</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Lisa</Name>
+        <City>Princeton                   </City>
+        <State>NJ</State>
+        <Country>United States</Country>
+        <Account_Created>1/18/09 19:47</Account_Created>
+        <Last_Login>1/26/09 13:07</Last_Login>
+        <Latitude>40.34861</Latitude>
+        <Longitude>-74.65944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 9:51</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Priska</Name>
+        <City>Calgary</City>
+        <State>Alberta</State>
+        <Country>Canada</Country>
+        <Account_Created>1/4/09 23:43</Account_Created>
+        <Last_Login>1/26/09 17:24</Last_Login>
+        <Latitude>51.0833333</Latitude>
+        <Longitude>-114.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 18:43</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Katrine</Name>
+        <City>North Tustin                </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/11/09 13:33</Account_Created>
+        <Last_Login>1/26/09 21:29</Last_Login>
+        <Latitude>33.76444</Latitude>
+        <Longitude>-117.79306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 0:46</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Lisa</Name>
+        <City>Gurgaon</City>
+        <State>Haryana</State>
+        <Country>India</Country>
+        <Account_Created>1/2/09 3:03</Account_Created>
+        <Last_Login>1/27/09 0:17</Last_Login>
+        <Latitude>28.4666667</Latitude>
+        <Longitude>77.0333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 1:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sabrina</Name>
+        <City>Rambouillet</City>
+        <State>Ile-de-France</State>
+        <Country>France</Country>
+        <Account_Created>6/18/08 6:35</Account_Created>
+        <Last_Login>1/27/09 2:56</Last_Login>
+        <Latitude>48.65</Latitude>
+        <Longitude>1.8333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 6:25</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>prof</Name>
+        <City>Gladwyne                    </City>
+        <State>PA</State>
+        <Country>United States</Country>
+        <Account_Created>1/19/09 6:38</Account_Created>
+        <Last_Login>1/27/09 3:58</Last_Login>
+        <Latitude>40.04056</Latitude>
+        <Longitude>-75.27944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 16:57</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>KeithMichelle</Name>
+        <City>Houston                     </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/21/09 16:37</Account_Created>
+        <Last_Login>1/27/09 4:43</Last_Login>
+        <Latitude>29.76306</Latitude>
+        <Longitude>-95.36306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 5:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Kim</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>12/8/05 13:22</Account_Created>
+        <Last_Login>1/27/09 4:49</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 5:10</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>anissa</Name>
+        <City>Slough</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/15/09 10:07</Account_Created>
+        <Last_Login>1/27/09 4:51</Last_Login>
+        <Latitude>51.5</Latitude>
+        <Longitude>-0.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 8:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>john</Name>
+        <City>Glan-Munchweiler</City>
+        <State>Rhineland-Palatinate</State>
+        <Country>Germany</Country>
+        <Account_Created>5/26/05 7:00</Account_Created>
+        <Last_Login>1/27/09 6:30</Last_Login>
+        <Latitude>49.4666667</Latitude>
+        <Longitude>7.4333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/20/09 7:08</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Miye</Name>
+        <City>Downingtown                 </City>
+        <State>PA</State>
+        <Country>United States</Country>
+        <Account_Created>1/19/09 8:06</Account_Created>
+        <Last_Login>1/27/09 6:38</Last_Login>
+        <Latitude>40.00639</Latitude>
+        <Longitude>-75.70361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 2:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Heidi</Name>
+        <City>MT Pleasant                 </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/27/09 2:16</Account_Created>
+        <Last_Login>1/27/09 6:41</Last_Login>
+        <Latitude>33.15667</Latitude>
+        <Longitude>-94.96806</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 6:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>T</Name>
+        <City>Veigy-Foncenex</City>
+        <State>Rhone-Alpes</State>
+        <Country>France</Country>
+        <Account_Created>1/5/09 4:52</Account_Created>
+        <Last_Login>1/27/09 7:01</Last_Login>
+        <Latitude>46.2666667</Latitude>
+        <Longitude>6.25</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 8:11</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Daniele</Name>
+        <City>Katy                        </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>5/27/08 11:01</Account_Created>
+        <Last_Login>1/27/09 7:49</Last_Login>
+        <Latitude>29.78556</Latitude>
+        <Longitude>-95.82417</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 9:18</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>luisa</Name>
+        <City>Gorey</City>
+        <State> </State>
+        <Country>Jersey</Country>
+        <Account_Created>5/9/06 10:43</Account_Created>
+        <Last_Login>1/27/09 7:51</Last_Login>
+        <Latitude>49.2</Latitude>
+        <Longitude>-2.0333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 18:52</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Nadine</Name>
+        <City>Belgrade                    </City>
+        <State>MT</State>
+        <Country>United States</Country>
+        <Account_Created>1/7/09 15:30</Account_Created>
+        <Last_Login>1/27/09 9:40</Last_Login>
+        <Latitude>45.77611</Latitude>
+        <Longitude>-111.17611</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 10:06</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Tina</Name>
+        <City>Calgary</City>
+        <State>Alberta</State>
+        <Country>Canada</Country>
+        <Account_Created>1/10/09 14:15</Account_Created>
+        <Last_Login>1/27/09 14:26</Last_Login>
+        <Latitude>51.0833333</Latitude>
+        <Longitude>-114.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 19:25</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Damali</Name>
+        <City>Toronto</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/8/08 20:41</Account_Created>
+        <Last_Login>1/27/09 14:59</Last_Login>
+        <Latitude>43.6666667</Latitude>
+        <Longitude>-79.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 15:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Katherine</Name>
+        <City>Corrales                    </City>
+        <State>NM</State>
+        <Country>United States</Country>
+        <Account_Created>1/17/09 17:52</Account_Created>
+        <Last_Login>1/27/09 15:17</Last_Login>
+        <Latitude>35.23778</Latitude>
+        <Longitude>-106.60611</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 18:43</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kathryn</Name>
+        <City>Cork</City>
+        <State>Cork</State>
+        <Country>Ireland</Country>
+        <Account_Created>12/22/08 15:39</Account_Created>
+        <Last_Login>1/27/09 15:43</Last_Login>
+        <Latitude>51.8986111</Latitude>
+        <Longitude>-8.4958333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 18:41</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Veronique</Name>
+        <City>Tenafly                     </City>
+        <State>NJ</State>
+        <Country>United States</Country>
+        <Account_Created>12/9/07 17:59</Account_Created>
+        <Last_Login>1/27/09 18:12</Last_Login>
+        <Latitude>40.92528</Latitude>
+        <Longitude>-73.96333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 18:34</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Erica</Name>
+        <City>Leesburg                    </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>1/4/09 16:53</Account_Created>
+        <Last_Login>1/27/09 18:37</Last_Login>
+        <Latitude>39.11556</Latitude>
+        <Longitude>-77.56389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 8:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>L</Name>
+        <City>Alcona</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>9/17/07 17:41</Account_Created>
+        <Last_Login>1/27/09 19:53</Last_Login>
+        <Latitude>50.0666667</Latitude>
+        <Longitude>-91.75</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 22:19</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Diana</Name>
+        <City>Kuala Lumpur</City>
+        <State>Kuala Lumpur</State>
+        <Country>Malaysia</Country>
+        <Account_Created>1/23/09 22:10</Account_Created>
+        <Last_Login>1/27/09 19:54</Last_Login>
+        <Latitude>3.1666667</Latitude>
+        <Longitude>101.7</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 10:03</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Emma</Name>
+        <City>Sydney</City>
+        <State>New South Wales</State>
+        <Country>Australia</Country>
+        <Account_Created>12/1/08 6:09</Account_Created>
+        <Last_Login>1/27/09 20:18</Last_Login>
+        <Latitude>-33.8833333</Latitude>
+        <Longitude>151.2166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 3:46</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Marina</Name>
+        <City>Nerang</City>
+        <State>Queensland</State>
+        <Country>Australia</Country>
+        <Account_Created>1/18/09 0:54</Account_Created>
+        <Last_Login>1/27/09 23:52</Last_Login>
+        <Latitude>-27.9833333</Latitude>
+        <Longitude>153.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 0:40</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Natalie </Name>
+        <City>Bryceville                  </City>
+        <State>FL</State>
+        <Country>United States</Country>
+        <Account_Created>1/27/09 22:04</Account_Created>
+        <Last_Login>1/28/09 0:01</Last_Login>
+        <Latitude>30.38444</Latitude>
+        <Longitude>-81.93889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 15:18</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Brenda</Name>
+        <City>Saffron Walden</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>9/1/04 2:08</Account_Created>
+        <Last_Login>1/28/09 1:26</Last_Login>
+        <Latitude>52.0166667</Latitude>
+        <Longitude>0.25</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 13:59</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Nita</Name>
+        <City>Sutton</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>12/1/05 19:57</Account_Created>
+        <Last_Login>1/28/09 4:07</Last_Login>
+        <Latitude>53.3905556</Latitude>
+        <Longitude>-6.1216667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/16/09 9:54</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Marian</Name>
+        <City>Durban</City>
+        <State>KwaZulu-Natal</State>
+        <Country>South Africa</Country>
+        <Account_Created>8/3/08 18:20</Account_Created>
+        <Last_Login>1/28/09 6:26</Last_Login>
+        <Latitude>-29.85</Latitude>
+        <Longitude>31.0166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 7:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kevin</Name>
+        <City>Berkeswell</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/28/09 6:57</Account_Created>
+        <Last_Login>1/28/09 7:18</Last_Login>
+        <Latitude>52.4</Latitude>
+        <Longitude>-1.6333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 7:31</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>cari</Name>
+        <City>Dryden                      </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 7:22</Account_Created>
+        <Last_Login>1/28/09 7:34</Last_Login>
+        <Latitude>36.7775</Latitude>
+        <Longitude>-82.94167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 12:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Cassandra</Name>
+        <City>Santry</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>12/14/08 14:26</Account_Created>
+        <Last_Login>1/28/09 7:41</Last_Login>
+        <Latitude>53.3986111</Latitude>
+        <Longitude>-6.2597222</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 14:05</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Christof and Heidi</Name>
+        <City>Barcelona</City>
+        <State>Catalonia</State>
+        <Country>Spain</Country>
+        <Account_Created>1/9/09 7:54</Account_Created>
+        <Last_Login>1/28/09 7:45</Last_Login>
+        <Latitude>41.3833333</Latitude>
+        <Longitude>2.1833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 7:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Ina</Name>
+        <City>Fayetteville                </City>
+        <State>NC</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 7:45</Account_Created>
+        <Last_Login>1/28/09 7:47</Last_Login>
+        <Latitude>35.0525</Latitude>
+        <Longitude>-78.87861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 3:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Lisa</Name>
+        <City>Anse Comeau</City>
+        <State>Quebec</State>
+        <Country>Canada</Country>
+        <Account_Created>1/26/09 11:47</Account_Created>
+        <Last_Login>1/28/09 8:08</Last_Login>
+        <Latitude>49.2166667</Latitude>
+        <Longitude>-68.15</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 15:16</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Camille and Carmen</Name>
+        <City>Thorlakshofn</City>
+        <State> </State>
+        <Country>Iceland</Country>
+        <Account_Created>1/12/09 11:41</Account_Created>
+        <Last_Login>1/28/09 8:44</Last_Login>
+        <Latitude>63.85</Latitude>
+        <Longitude>-21.3666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 11:17</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Trina</Name>
+        <City>Overland                    </City>
+        <State>KS</State>
+        <Country>United States</Country>
+        <Account_Created>2/21/08 8:53</Account_Created>
+        <Last_Login>1/28/09 9:23</Last_Login>
+        <Latitude>38.98222</Latitude>
+        <Longitude>-94.67056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 9:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Ginger</Name>
+        <City>King City</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/23/09 8:18</Account_Created>
+        <Last_Login>1/28/09 9:43</Last_Login>
+        <Latitude>43.9333333</Latitude>
+        <Longitude>-79.5333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 4:01</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>breon</Name>
+        <City>Leighton Buzzard</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/7/06 10:56</Account_Created>
+        <Last_Login>1/28/09 10:12</Last_Login>
+        <Latitude>51.9166667</Latitude>
+        <Longitude>-0.65</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 18:21</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Marion</Name>
+        <City>Umea</City>
+        <State>Vasterbotten</State>
+        <Country>Sweden</Country>
+        <Account_Created>1/25/09 16:35</Account_Created>
+        <Last_Login>1/28/09 10:19</Last_Login>
+        <Latitude>63.8333333</Latitude>
+        <Longitude>20.25</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 10:51</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Pia </Name>
+        <City>Sola</City>
+        <State>Rogaland</State>
+        <Country>Norway</Country>
+        <Account_Created>1/11/09 8:54</Account_Created>
+        <Last_Login>1/28/09 10:39</Last_Login>
+        <Latitude>58.8833333</Latitude>
+        <Longitude>5.6</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 5:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Dr. Donald</Name>
+        <City>Stockton-on-Tees</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/1/05 6:03</Account_Created>
+        <Last_Login>1/28/09 11:07</Last_Login>
+        <Latitude>54.5833333</Latitude>
+        <Longitude>-1.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 10:35</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jenna and Paul</Name>
+        <City>Senatobia                   </City>
+        <State>MS</State>
+        <Country>United States</Country>
+        <Account_Created>1/8/09 14:02</Account_Created>
+        <Last_Login>1/28/09 11:08</Last_Login>
+        <Latitude>34.6175</Latitude>
+        <Longitude>-89.96861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 10:16</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Rebecca</Name>
+        <City>Berlin</City>
+        <State>Berlin</State>
+        <Country>Germany</Country>
+        <Account_Created>12/28/08 10:50</Account_Created>
+        <Last_Login>1/28/09 11:09</Last_Login>
+        <Latitude>52.5166667</Latitude>
+        <Longitude>13.4</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 12:16</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Monique</Name>
+        <City>Waldorf                     </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>12/11/08 6:16</Account_Created>
+        <Last_Login>1/28/09 12:07</Last_Login>
+        <Latitude>38.62444</Latitude>
+        <Longitude>-76.93944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 12:31</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>lilia </Name>
+        <City>Brooklyn                    </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 12:21</Account_Created>
+        <Last_Login>1/28/09 12:30</Last_Login>
+        <Latitude>40.65</Latitude>
+        <Longitude>-73.95</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 12:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Lainey</Name>
+        <City>Lakeville                   </City>
+        <State>MN</State>
+        <Country>United States</Country>
+        <Account_Created>1/13/09 22:28</Account_Created>
+        <Last_Login>1/28/09 12:37</Last_Login>
+        <Latitude>44.64972</Latitude>
+        <Longitude>-93.2425</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/16/09 7:20</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Jag</Name>
+        <City>Saint-Cergues</City>
+        <State>Rhone-Alpes</State>
+        <Country>France</Country>
+        <Account_Created>1/15/09 4:53</Account_Created>
+        <Last_Login>1/28/09 12:43</Last_Login>
+        <Latitude>46.2333333</Latitude>
+        <Longitude>6.3166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 9:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Charlene </Name>
+        <City>Vancouver</City>
+        <State>British Columbia</State>
+        <Country>Canada</Country>
+        <Account_Created>10/7/08 14:55</Account_Created>
+        <Last_Login>1/28/09 13:17</Last_Login>
+        <Latitude>49.25</Latitude>
+        <Longitude>-123.1333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 12:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Fiona</Name>
+        <City>Stamford                    </City>
+        <State>CT</State>
+        <Country>United States</Country>
+        <Account_Created>1/5/09 6:26</Account_Created>
+        <Last_Login>1/28/09 13:24</Last_Login>
+        <Latitude>41.05333</Latitude>
+        <Longitude>-73.53917</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 12:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>burt</Name>
+        <City>Rathfarnham</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>5/10/08 7:07</Account_Created>
+        <Last_Login>1/28/09 13:28</Last_Login>
+        <Latitude>53.3005556</Latitude>
+        <Longitude>-6.2827778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 15:19</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Maggie</Name>
+        <City>Paris</City>
+        <State>Ile-de-France</State>
+        <Country>France</Country>
+        <Account_Created>6/27/07 4:41</Account_Created>
+        <Last_Login>1/28/09 14:11</Last_Login>
+        <Latitude>48.8666667</Latitude>
+        <Longitude>2.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 8:56</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Stanford</Name>
+        <City>Howell                      </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>1/30/08 13:16</Account_Created>
+        <Last_Login>1/28/09 14:37</Last_Login>
+        <Latitude>42.60722</Latitude>
+        <Longitude>-83.92944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 17:54</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>ruth</Name>
+        <City>Encinitas                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/1/09 10:12</Account_Created>
+        <Last_Login>1/28/09 15:13</Last_Login>
+        <Latitude>33.03694</Latitude>
+        <Longitude>-117.29111</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 13:46</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Courtney</Name>
+        <City>Atchison                    </City>
+        <State>KS</State>
+        <Country>United States</Country>
+        <Account_Created>11/11/08 14:19</Account_Created>
+        <Last_Login>1/28/09 17:10</Last_Login>
+        <Latitude>39.56306</Latitude>
+        <Longitude>-95.12139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 10:49</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Courtney</Name>
+        <City>Mililani                    </City>
+        <State>HI</State>
+        <Country>United States</Country>
+        <Account_Created>8/23/07 0:00</Account_Created>
+        <Last_Login>1/28/09 18:13</Last_Login>
+        <Latitude>21.42556</Latitude>
+        <Longitude>-157.96083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 18:24</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Anthony</Name>
+        <City>Victor                      </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>12/18/08 7:14</Account_Created>
+        <Last_Login>1/28/09 18:19</Last_Login>
+        <Latitude>42.9825</Latitude>
+        <Longitude>-77.40917</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 4:01</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Eleanor</Name>
+        <City>Fairbanks                   </City>
+        <State>AK</State>
+        <Country>United States</Country>
+        <Account_Created>1/6/09 0:18</Account_Created>
+        <Last_Login>1/28/09 23:56</Last_Login>
+        <Latitude>64.83778</Latitude>
+        <Longitude>-147.71639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/16/09 10:58</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>GAIA</Name>
+        <City>Soro</City>
+        <State>Vestsjalland</State>
+        <Country>Denmark</Country>
+        <Account_Created>7/27/07 7:22</Account_Created>
+        <Last_Login>1/29/09 3:16</Last_Login>
+        <Latitude>55.4333333</Latitude>
+        <Longitude>11.5666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 8:20</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Zane</Name>
+        <City>Warlingham</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>3/4/05 5:51</Account_Created>
+        <Last_Login>1/29/09 3:25</Last_Login>
+        <Latitude>51.3</Latitude>
+        <Longitude>-0.05</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 1:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Beate</Name>
+        <City>Hamburg</City>
+        <State>Hamburg</State>
+        <Country>Germany</Country>
+        <Account_Created>1/7/09 7:56</Account_Created>
+        <Last_Login>1/29/09 4:33</Last_Login>
+        <Latitude>53.55</Latitude>
+        <Longitude>10</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 13:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>BALA</Name>
+        <City>Accokeek                    </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>11/29/07 5:56</Account_Created>
+        <Last_Login>1/29/09 4:40</Last_Login>
+        <Latitude>38.6675</Latitude>
+        <Longitude>-77.02861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 5:43</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Mrs</Name>
+        <City>Sunnyvale                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/29/09 5:18</Account_Created>
+        <Last_Login>1/29/09 5:18</Last_Login>
+        <Latitude>37.36889</Latitude>
+        <Longitude>-122.03528</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 5:30</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Vanessa</Name>
+        <City>Ithaca                      </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/29/09 4:49</Account_Created>
+        <Last_Login>1/29/09 6:56</Last_Login>
+        <Latitude>42.44056</Latitude>
+        <Longitude>-76.49694</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 18:08</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Amanda</Name>
+        <City>Houston                     </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/13/09 17:02</Account_Created>
+        <Last_Login>1/29/09 7:34</Last_Login>
+        <Latitude>29.76306</Latitude>
+        <Longitude>-95.36306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 15:24</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>alex </Name>
+        <City>Farmingtn Hls               </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>1/9/09 13:59</Account_Created>
+        <Last_Login>1/29/09 8:05</Last_Login>
+        <Latitude>42.46444</Latitude>
+        <Longitude>-83.37639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 15:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>T</Name>
+        <City>Brooklyn                    </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/23/09 14:18</Account_Created>
+        <Last_Login>1/29/09 11:02</Last_Login>
+        <Latitude>40.65</Latitude>
+        <Longitude>-73.95</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 12:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Alva and Martin</Name>
+        <City>Great Falls                 </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>5/21/07 14:57</Account_Created>
+        <Last_Login>1/29/09 12:31</Last_Login>
+        <Latitude>38.99806</Latitude>
+        <Longitude>-77.28861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 11:31</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Anett</Name>
+        <City>Gosport</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/9/09 11:30</Account_Created>
+        <Last_Login>1/29/09 12:48</Last_Login>
+        <Latitude>50.8</Latitude>
+        <Longitude>-1.1333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 10:09</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Jacqui</Name>
+        <City>Scottsdale                  </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>1/29/09 9:59</Account_Created>
+        <Last_Login>1/29/09 12:58</Last_Login>
+        <Latitude>33.50917</Latitude>
+        <Longitude>-111.89833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 15:08</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>KERRY</Name>
+        <City>Sunnyvale                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/29/09 14:04</Account_Created>
+        <Last_Login>1/29/09 14:04</Last_Login>
+        <Latitude>37.36889</Latitude>
+        <Longitude>-122.03528</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 5:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>DeeDee</Name>
+        <City>Songnae-dong</City>
+        <State>Soul-t&apos;ukpyolsi</State>
+        <Country>South Korea</Country>
+        <Account_Created>12/30/08 8:40</Account_Created>
+        <Last_Login>1/29/09 16:41</Last_Login>
+        <Latitude>37.5333333</Latitude>
+        <Longitude>127.1166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 22:16</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>leanne</Name>
+        <City>Clyde Hill                  </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>1/17/09 23:28</Account_Created>
+        <Last_Login>1/29/09 16:51</Last_Login>
+        <Latitude>47.61056</Latitude>
+        <Longitude>-122.19944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 19:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>katie</Name>
+        <City>Ruschlikon</City>
+        <State>Zurich</State>
+        <Country>Switzerland</Country>
+        <Account_Created>1/5/09 19:14</Account_Created>
+        <Last_Login>1/30/09 1:06</Last_Login>
+        <Latitude>47.3</Latitude>
+        <Longitude>8.55</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 12:22</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Marina</Name>
+        <City>Minneapolis                 </City>
+        <State>MN</State>
+        <Country>United States</Country>
+        <Account_Created>1/11/09 7:18</Account_Created>
+        <Last_Login>1/30/09 2:10</Last_Login>
+        <Latitude>44.98</Latitude>
+        <Longitude>-93.26361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 9:31</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>camilla</Name>
+        <City>Chicago                     </City>
+        <State>IL</State>
+        <Country>United States</Country>
+        <Account_Created>1/2/09 9:09</Account_Created>
+        <Last_Login>1/30/09 5:35</Last_Login>
+        <Latitude>41.85</Latitude>
+        <Longitude>-87.65</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 11:21</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>pirunkit</Name>
+        <City>Petworth</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/5/09 5:46</Account_Created>
+        <Last_Login>1/30/09 5:54</Last_Login>
+        <Latitude>50.9833333</Latitude>
+        <Longitude>-0.6</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 9:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Kathrin</Name>
+        <City>Abu Dhabi</City>
+        <State>Abu Zaby</State>
+        <Country>United Arab Emirates</Country>
+        <Account_Created>2/27/08 20:02</Account_Created>
+        <Last_Login>1/30/09 8:45</Last_Login>
+        <Latitude>24.4666667</Latitude>
+        <Longitude>54.3666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 1:38</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Kate</Name>
+        <City>Stockholm</City>
+        <State>Stockholm</State>
+        <Country>Sweden</Country>
+        <Account_Created>4/16/07 12:58</Account_Created>
+        <Last_Login>1/30/09 9:18</Last_Login>
+        <Latitude>59.3333333</Latitude>
+        <Longitude>18.05</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 10:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Maie</Name>
+        <City>Queen Creek                 </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>1/6/09 17:57</Account_Created>
+        <Last_Login>1/30/09 10:41</Last_Login>
+        <Latitude>33.24861</Latitude>
+        <Longitude>-111.63361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 12:05</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1250</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>verena</Name>
+        <City>Queen Creek                 </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>1/6/09 17:57</Account_Created>
+        <Last_Login>1/30/09 10:41</Last_Login>
+        <Latitude>33.24861</Latitude>
+        <Longitude>-111.63361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 18:53</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Marie-Christine</Name>
+        <City>Durham                      </City>
+        <State>NC</State>
+        <Country>United States</Country>
+        <Account_Created>12/29/08 9:59</Account_Created>
+        <Last_Login>1/30/09 10:46</Last_Login>
+        <Latitude>35.99389</Latitude>
+        <Longitude>-78.89889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 11:38</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Gabriella</Name>
+        <City>Austin                      </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/26/09 7:16</Account_Created>
+        <Last_Login>1/30/09 13:15</Last_Login>
+        <Latitude>30.26694</Latitude>
+        <Longitude>-97.74278</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 13:19</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>valerie et nicolas</Name>
+        <City>Glenn Dale                  </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>1/8/09 5:31</Account_Created>
+        <Last_Login>1/30/09 17:40</Last_Login>
+        <Latitude>38.9875</Latitude>
+        <Longitude>-76.82083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 14:56</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Nicole</Name>
+        <City>Aardal</City>
+        <State>Sogn og Fjordane</State>
+        <Country>Norway</Country>
+        <Account_Created>1/5/09 5:51</Account_Created>
+        <Last_Login>1/31/09 4:21</Last_Login>
+        <Latitude>61.55</Latitude>
+        <Longitude>6.35</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 20:36</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Renee</Name>
+        <City>Edinburg                    </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/30/09 20:05</Account_Created>
+        <Last_Login>1/31/09 4:47</Last_Login>
+        <Latitude>26.30139</Latitude>
+        <Longitude>-98.16306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 8:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Nicole</Name>
+        <City>South Melbourne</City>
+        <State>Victoria</State>
+        <Country>Australia</Country>
+        <Account_Created>12/30/08 0:55</Account_Created>
+        <Last_Login>1/31/09 5:40</Last_Login>
+        <Latitude>-37.8333333</Latitude>
+        <Longitude>144.9666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 11:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Joachim</Name>
+        <City>Fortaleza</City>
+        <State>Ceara</State>
+        <Country>Brazil</Country>
+        <Account_Created>1/17/09 10:46</Account_Created>
+        <Last_Login>1/31/09 6:42</Last_Login>
+        <Latitude>-3.7166667</Latitude>
+        <Longitude>-38.5</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 7:22</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Monica </Name>
+        <City>Weston                      </City>
+        <State>CT</State>
+        <Country>United States</Country>
+        <Account_Created>2/29/08 17:34</Account_Created>
+        <Last_Login>1/31/09 6:43</Last_Login>
+        <Latitude>41.20083</Latitude>
+        <Longitude>-73.38111</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 9:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Nanci</Name>
+        <City>Reading</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>8/28/08 10:22</Account_Created>
+        <Last_Login>1/31/09 9:08</Last_Login>
+        <Latitude>51.4333333</Latitude>
+        <Longitude>-1</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 8:56</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Laura</Name>
+        <City>Coconut Grove               </City>
+        <State>FL</State>
+        <Country>United States</Country>
+        <Account_Created>1/31/09 8:03</Account_Created>
+        <Last_Login>1/31/09 9:22</Last_Login>
+        <Latitude>25.71222</Latitude>
+        <Longitude>-80.25722</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 9:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>ciara and mike</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/31/09 8:32</Account_Created>
+        <Last_Login>1/31/09 10:07</Last_Login>
+        <Latitude>51.51334</Latitude>
+        <Longitude>-0.08895</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 14:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sarah</Name>
+        <City>San Francisco               </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/11/09 13:08</Account_Created>
+        <Last_Login>1/31/09 10:20</Last_Login>
+        <Latitude>37.775</Latitude>
+        <Longitude>-122.41833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 12:25</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Anne-line</Name>
+        <City>Zug</City>
+        <State>Zug</State>
+        <Country>Switzerland</Country>
+        <Account_Created>3/29/05 23:14</Account_Created>
+        <Last_Login>1/31/09 10:58</Last_Login>
+        <Latitude>47.1666667</Latitude>
+        <Longitude>8.5166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 11:14</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Ulrika</Name>
+        <City>Scottsdale                  </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>1/31/09 11:10</Account_Created>
+        <Last_Login>1/31/09 11:10</Last_Login>
+        <Latitude>33.50917</Latitude>
+        <Longitude>-111.89833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 9:57</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>leigh</Name>
+        <City>Potomac Falls               </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>2/20/05 17:20</Account_Created>
+        <Last_Login>1/31/09 11:24</Last_Login>
+        <Latitude>39.05</Latitude>
+        <Longitude>-77.40111</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 13:20</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Nuria</Name>
+        <City>Superior                    </City>
+        <State>CO</State>
+        <Country>United States</Country>
+        <Account_Created>1/4/09 12:08</Account_Created>
+        <Last_Login>1/31/09 13:17</Last_Login>
+        <Latitude>39.97778</Latitude>
+        <Longitude>-105.13139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 12:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Tejal</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/2/08 9:51</Account_Created>
+        <Last_Login>1/31/09 14:43</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 6:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Ignacio</Name>
+        <City>Engleside                   </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>5/21/07 18:56</Account_Created>
+        <Last_Login>1/31/09 15:33</Last_Login>
+        <Latitude>38.80472</Latitude>
+        <Longitude>-77.04722</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 0:04</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>ZOE</Name>
+        <City>New Plymouth City</City>
+        <State>Taranaki</State>
+        <Country>New Zealand</Country>
+        <Account_Created>1/7/09 23:34</Account_Created>
+        <Last_Login>1/31/09 17:47</Last_Login>
+        <Latitude>-39.0666667</Latitude>
+        <Longitude>174.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 7:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>nihan</Name>
+        <City>Roanoke                     </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>3/2/08 7:35</Account_Created>
+        <Last_Login>1/31/09 19:18</Last_Login>
+        <Latitude>37.20556</Latitude>
+        <Longitude>-80.03778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 11:05</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>alan</Name>
+        <City>Norcross                    </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>7/30/07 15:16</Account_Created>
+        <Last_Login>1/31/09 19:31</Last_Login>
+        <Latitude>33.94111</Latitude>
+        <Longitude>-84.21361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 15:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>lydia</Name>
+        <City>Sandy Plains                </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>9/23/06 8:42</Account_Created>
+        <Last_Login>1/31/09 20:48</Last_Login>
+        <Latitude>34.02306</Latitude>
+        <Longitude>-84.36167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 17:06</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Tracey</Name>
+        <City>Saint Catharines</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/24/09 15:51</Account_Created>
+        <Last_Login>1/31/09 21:10</Last_Login>
+        <Latitude>43.1666667</Latitude>
+        <Longitude>-79.2333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/3/09 9:58</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Anja</Name>
+        <City>Gainesville                 </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>10/19/08 8:27</Account_Created>
+        <Last_Login>1/31/09 22:19</Last_Login>
+        <Latitude>38.79556</Latitude>
+        <Longitude>-77.61417</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 16:35</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Jennifer</Name>
+        <City>Nordstrand</City>
+        <State>Oslo</State>
+        <Country>Norway</Country>
+        <Account_Created>12/29/05 9:26</Account_Created>
+        <Last_Login>2/1/09 4:18</Last_Login>
+        <Latitude>59.8608333</Latitude>
+        <Longitude>10.7905556</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 14:50</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Holly</Name>
+        <City>Arlington                   </City>
+        <State>MA</State>
+        <Country>United States</Country>
+        <Account_Created>1/12/09 9:54</Account_Created>
+        <Last_Login>2/1/09 7:36</Last_Login>
+        <Latitude>42.41528</Latitude>
+        <Longitude>-71.15694</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 13:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>megan</Name>
+        <City>West Hills                  </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/7/09 12:36</Account_Created>
+        <Last_Login>2/1/09 8:20</Last_Login>
+        <Latitude>34.20111</Latitude>
+        <Longitude>-118.59722</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 19:41</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Tarah</Name>
+        <City>San Jose                    </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/5/09 18:02</Account_Created>
+        <Last_Login>2/1/09 9:18</Last_Login>
+        <Latitude>37.33944</Latitude>
+        <Longitude>-121.89389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 4:53</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Gerardo</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/26/09 4:12</Account_Created>
+        <Last_Login>2/1/09 9:48</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 21:41</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Joanne</Name>
+        <City>Oak Park                    </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>12/26/08 11:00</Account_Created>
+        <Last_Login>2/1/09 9:51</Last_Login>
+        <Latitude>42.45944</Latitude>
+        <Longitude>-83.18278</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 16:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Margaret</Name>
+        <City>Terrell Hills               </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>12/21/08 12:21</Account_Created>
+        <Last_Login>2/1/09 10:06</Last_Login>
+        <Latitude>29.42389</Latitude>
+        <Longitude>-98.49333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 7:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Laura</Name>
+        <City>Jumeira</City>
+        <State>Dubayy</State>
+        <Country>United Arab Emirates</Country>
+        <Account_Created>1/7/09 9:47</Account_Created>
+        <Last_Login>2/1/09 10:18</Last_Login>
+        <Latitude>25.2097222</Latitude>
+        <Longitude>55.2477778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 20:44</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Whitney</Name>
+        <City>Falmouth                    </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 19:36</Account_Created>
+        <Last_Login>2/1/09 11:33</Last_Login>
+        <Latitude>38.32389</Latitude>
+        <Longitude>-77.46861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 3:38</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Ravinder</Name>
+        <City>Lurgan</City>
+        <State>Northern Ireland</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>6/3/08 4:22</Account_Created>
+        <Last_Login>2/1/09 11:53</Last_Login>
+        <Latitude>54.4666667</Latitude>
+        <Longitude>-6.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 8:52</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Pam</Name>
+        <City>Richmond                    </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/6/09 15:24</Account_Created>
+        <Last_Login>2/1/09 11:53</Last_Login>
+        <Latitude>29.58194</Latitude>
+        <Longitude>-95.76056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 7:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Celina</Name>
+        <City>Den Haag</City>
+        <State>Zuid-Holland</State>
+        <Country>Netherlands</Country>
+        <Account_Created>1/14/09 0:00</Account_Created>
+        <Last_Login>2/1/09 13:17</Last_Login>
+        <Latitude>52.0833333</Latitude>
+        <Longitude>4.3</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 19:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Heather</Name>
+        <City>Ooltewah                    </City>
+        <State>TN</State>
+        <Country>United States</Country>
+        <Account_Created>1/30/09 18:54</Account_Created>
+        <Last_Login>2/1/09 13:51</Last_Login>
+        <Latitude>35.075</Latitude>
+        <Longitude>-85.06222</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 12:41</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Kathryn</Name>
+        <City>Pacific Beach               </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/5/09 11:50</Account_Created>
+        <Last_Login>2/1/09 14:28</Last_Login>
+        <Latitude>32.79778</Latitude>
+        <Longitude>-117.23944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 20:59</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Michele </Name>
+        <City>Austin                      </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 9:40</Account_Created>
+        <Last_Login>2/1/09 15:00</Last_Login>
+        <Latitude>30.26694</Latitude>
+        <Longitude>-97.74278</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 21:36</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Craig</Name>
+        <City>Seattle                     </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>8/10/08 16:47</Account_Created>
+        <Last_Login>2/1/09 15:27</Last_Login>
+        <Latitude>47.60639</Latitude>
+        <Longitude>-122.33083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 19:59</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kim</Name>
+        <City>Seattle                     </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>8/13/08 18:27</Account_Created>
+        <Last_Login>2/1/09 16:04</Last_Login>
+        <Latitude>47.60639</Latitude>
+        <Longitude>-122.33083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 8:03</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>maria</Name>
+        <City>Ottawa</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>4/17/05 22:28</Account_Created>
+        <Last_Login>2/1/09 18:52</Last_Login>
+        <Latitude>45.4166667</Latitude>
+        <Longitude>-75.7</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 9:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Elaine</Name>
+        <City>Vienna                      </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>4/2/08 9:59</Account_Created>
+        <Last_Login>2/1/09 21:07</Last_Login>
+        <Latitude>38.90111</Latitude>
+        <Longitude>-77.26556</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 14:43</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Madison</Name>
+        <City>Torbay</City>
+        <State>Auckland</State>
+        <Country>New Zealand</Country>
+        <Account_Created>1/18/09 11:34</Account_Created>
+        <Last_Login>2/1/09 21:31</Last_Login>
+        <Latitude>-36.7</Latitude>
+        <Longitude>174.75</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 13:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Amanda</Name>
+        <City>Shenfield</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/2/09 14:27</Account_Created>
+        <Last_Login>2/1/09 22:27</Last_Login>
+        <Latitude>51.6166667</Latitude>
+        <Longitude>0.3166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 3:39</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Krista</Name>
+        <City>Bergen</City>
+        <State>Hordaland</State>
+        <Country>Norway</Country>
+        <Account_Created>9/20/05 1:58</Account_Created>
+        <Last_Login>2/2/09 0:08</Last_Login>
+        <Latitude>60.3911111</Latitude>
+        <Longitude>5.3247222</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 15:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sarah</Name>
+        <City>Bolton</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/15/09 8:16</Account_Created>
+        <Last_Login>2/2/09 0:53</Last_Login>
+        <Latitude>53.5833333</Latitude>
+        <Longitude>-2.4333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 4:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Sarah</Name>
+        <City>Sandymount</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/16/06 8:48</Account_Created>
+        <Last_Login>2/2/09 2:12</Last_Login>
+        <Latitude>53.335</Latitude>
+        <Longitude>-6.2113889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 10:05</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Pamela</Name>
+        <City>Bellinzona</City>
+        <State>Ticino</State>
+        <Country>Switzerland</Country>
+        <Account_Created>9/3/07 13:23</Account_Created>
+        <Last_Login>2/2/09 5:16</Last_Login>
+        <Latitude>46.2</Latitude>
+        <Longitude>9.0166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 5:13</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Christine</Name>
+        <City>Antwerpen</City>
+        <State>Antwerpen</State>
+        <Country>Belgium</Country>
+        <Account_Created>1/3/06 13:57</Account_Created>
+        <Last_Login>2/2/09 5:45</Last_Login>
+        <Latitude>51.2166667</Latitude>
+        <Longitude>4.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 10:32</Transaction_date>
+        <Product>Product3</Product>
+        <Price>7500</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Diana</Name>
+        <City>Campinas</City>
+        <State>Sao Paulo</State>
+        <Country>Brazil</Country>
+        <Account_Created>11/5/08 7:03</Account_Created>
+        <Last_Login>2/2/09 5:54</Last_Login>
+        <Latitude>-22.9</Latitude>
+        <Longitude>-47.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 8:13</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>mary</Name>
+        <City>Nacka</City>
+        <State>Stockholm</State>
+        <Country>Sweden</Country>
+        <Account_Created>3/8/06 4:32</Account_Created>
+        <Last_Login>2/2/09 6:01</Last_Login>
+        <Latitude>59.3</Latitude>
+        <Longitude>18.1666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 8:11</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Helena</Name>
+        <City>Fremont                     </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/27/09 8:05</Account_Created>
+        <Last_Login>2/2/09 6:08</Last_Login>
+        <Latitude>37.54833</Latitude>
+        <Longitude>-121.9875</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 17:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>nina</Name>
+        <City>Warwick</City>
+        <State>Queensland</State>
+        <Country>Australia</Country>
+        <Account_Created>1/25/09 22:36</Account_Created>
+        <Last_Login>2/2/09 6:13</Last_Login>
+        <Latitude>-28.2333333</Latitude>
+        <Longitude>152.0166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 9:52</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Mark</Name>
+        <City>Holmdel                     </City>
+        <State>NJ</State>
+        <Country>United States</Country>
+        <Account_Created>1/15/09 8:36</Account_Created>
+        <Last_Login>2/2/09 7:00</Last_Login>
+        <Latitude>40.345</Latitude>
+        <Longitude>-74.18444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 11:54</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>alice and rudolf</Name>
+        <City>Baltimore                   </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>1/8/09 11:11</Account_Created>
+        <Last_Login>2/2/09 8:01</Last_Login>
+        <Latitude>39.2725</Latitude>
+        <Longitude>-76.53167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 11:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Costanza</Name>
+        <City>Saggart</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/19/09 10:11</Account_Created>
+        <Last_Login>2/2/09 8:29</Last_Login>
+        <Latitude>53.2802778</Latitude>
+        <Longitude>-6.4444444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/16/09 11:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Yoko</Name>
+        <City>Andover                     </City>
+        <State>MA</State>
+        <Country>United States</Country>
+        <Account_Created>2/18/08 18:56</Account_Created>
+        <Last_Login>2/2/09 8:53</Last_Login>
+        <Latitude>42.65833</Latitude>
+        <Longitude>-71.1375</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 9:35</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Barbara</Name>
+        <City>La Crescenta                </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>12/31/08 17:51</Account_Created>
+        <Last_Login>2/2/09 10:27</Last_Login>
+        <Latitude>34.22417</Latitude>
+        <Longitude>-118.23917</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 5:58</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Kit</Name>
+        <City>Suwanee                     </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>1/5/09 21:12</Account_Created>
+        <Last_Login>2/2/09 13:13</Last_Login>
+        <Latitude>34.05139</Latitude>
+        <Longitude>-84.07139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 16:08</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>cristina</Name>
+        <City>Seattle                     </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>3/14/05 16:39</Account_Created>
+        <Last_Login>2/2/09 14:17</Last_Login>
+        <Latitude>47.60639</Latitude>
+        <Longitude>-122.33083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 10:25</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>linda</Name>
+        <City>Arlington                   </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>10/11/08 3:50</Account_Created>
+        <Last_Login>2/2/09 16:13</Last_Login>
+        <Latitude>38.89028</Latitude>
+        <Longitude>-77.08444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 21:08</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Christyna</Name>
+        <City>Calgary</City>
+        <State>Alberta</State>
+        <Country>Canada</Country>
+        <Account_Created>1/21/08 20:11</Account_Created>
+        <Last_Login>2/2/09 18:50</Last_Login>
+        <Latitude>51.0833333</Latitude>
+        <Longitude>-114.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 20:43</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Alicja </Name>
+        <City>Kenmore                     </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>1/12/09 20:31</Account_Created>
+        <Last_Login>2/2/09 20:26</Last_Login>
+        <Latitude>47.7575</Latitude>
+        <Longitude>-122.24278</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 3:22</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Rachel</Name>
+        <City>Fresno                      </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>2/1/08 12:45</Account_Created>
+        <Last_Login>2/2/09 20:35</Last_Login>
+        <Latitude>36.74778</Latitude>
+        <Longitude>-119.77139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 11:17</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Rachel</Name>
+        <City>Atascadero                  </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>3/11/08 13:35</Account_Created>
+        <Last_Login>2/2/09 22:49</Last_Login>
+        <Latitude>35.48944</Latitude>
+        <Longitude>-120.66972</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 9:01</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jan</Name>
+        <City>Barcelona</City>
+        <State>Catalonia</State>
+        <Country>Spain</Country>
+        <Account_Created>5/29/08 12:23</Account_Created>
+        <Last_Login>2/3/09 0:59</Last_Login>
+        <Latitude>41.3833333</Latitude>
+        <Longitude>2.1833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 8:11</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Karin</Name>
+        <City>High Wycombe</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/8/09 7:00</Account_Created>
+        <Last_Login>2/3/09 1:54</Last_Login>
+        <Latitude>51.6333333</Latitude>
+        <Longitude>-0.7666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 23:28</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>ron </Name>
+        <City>Tsaritsyno</City>
+        <State>Moscow City</State>
+        <Country>Russia</Country>
+        <Account_Created>12/7/06 8:26</Account_Created>
+        <Last_Login>2/3/09 2:10</Last_Login>
+        <Latitude>55.6283333</Latitude>
+        <Longitude>37.6608333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 21:35</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Sharon</Name>
+        <City>Ajax</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>8/7/08 6:17</Account_Created>
+        <Last_Login>2/3/09 3:42</Last_Login>
+        <Latitude>43.85</Latitude>
+        <Longitude>-79.0166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 6:01</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Anna</Name>
+        <City>New York                    </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/1/09 10:24</Account_Created>
+        <Last_Login>2/3/09 4:25</Last_Login>
+        <Latitude>40.71417</Latitude>
+        <Longitude>-74.00639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 14:53</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Laura</Name>
+        <City>Fairfield                   </City>
+        <State>IA</State>
+        <Country>United States</Country>
+        <Account_Created>12/12/08 5:18</Account_Created>
+        <Last_Login>2/3/09 5:40</Last_Login>
+        <Latitude>41.00861</Latitude>
+        <Longitude>-91.9625</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 7:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Yana</Name>
+        <City>North Bay</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>10/11/06 19:22</Account_Created>
+        <Last_Login>2/3/09 6:36</Last_Login>
+        <Latitude>46.3</Latitude>
+        <Longitude>-79.45</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 8:12</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Katherine</Name>
+        <City>Marietta                    </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>1/13/09 10:03</Account_Created>
+        <Last_Login>2/3/09 7:44</Last_Login>
+        <Latitude>33.9525</Latitude>
+        <Longitude>-84.55</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 6:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Therese</Name>
+        <City>Clontarf</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>6/15/08 8:08</Account_Created>
+        <Last_Login>2/3/09 7:51</Last_Login>
+        <Latitude>53.3591667</Latitude>
+        <Longitude>-6.2161111</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 8:05</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Francoise </Name>
+        <City>Danville                    </City>
+        <State>PA</State>
+        <Country>United States</Country>
+        <Account_Created>1/12/09 6:44</Account_Created>
+        <Last_Login>2/3/09 8:01</Last_Login>
+        <Latitude>40.96333</Latitude>
+        <Longitude>-76.61306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 13:03</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Elizabeth</Name>
+        <City>Okotoks</City>
+        <State>Alberta</State>
+        <Country>Canada</Country>
+        <Account_Created>9/10/08 6:53</Account_Created>
+        <Last_Login>2/3/09 9:13</Last_Login>
+        <Latitude>50.7166667</Latitude>
+        <Longitude>-113.9666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 8:54</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Corinne</Name>
+        <City>Anthem                      </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>3/26/06 17:32</Account_Created>
+        <Last_Login>2/3/09 9:50</Last_Login>
+        <Latitude>33.86722</Latitude>
+        <Longitude>-112.14611</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 10:08</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Ec</Name>
+        <City>Clonmel</City>
+        <State>Tipperary</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/5/09 7:47</Account_Created>
+        <Last_Login>2/3/09 10:21</Last_Login>
+        <Latitude>52.355</Latitude>
+        <Longitude>-7.7038889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 19:29</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Carmen</Name>
+        <City>Arlington                   </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>4/29/08 16:09</Account_Created>
+        <Last_Login>2/3/09 10:23</Last_Login>
+        <Latitude>38.89028</Latitude>
+        <Longitude>-77.08444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 19:06</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Brittany</Name>
+        <City>Orlando                     </City>
+        <State>FL</State>
+        <Country>United States</Country>
+        <Account_Created>8/10/04 3:30</Account_Created>
+        <Last_Login>2/3/09 11:32</Last_Login>
+        <Latitude>28.53806</Latitude>
+        <Longitude>-81.37944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 11:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Sandrine</Name>
+        <City>Walnut Creek                </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/22/09 23:31</Account_Created>
+        <Last_Login>2/3/09 11:49</Last_Login>
+        <Latitude>37.90639</Latitude>
+        <Longitude>-122.06389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/3/09 21:11</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>asuncion </Name>
+        <City>Centennial                  </City>
+        <State>CO</State>
+        <Country>United States</Country>
+        <Account_Created>12/3/08 13:00</Account_Created>
+        <Last_Login>2/3/09 11:50</Last_Login>
+        <Latitude>39.57917</Latitude>
+        <Longitude>-104.87639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 17:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sophie</Name>
+        <City>Newtown                     </City>
+        <State>CT</State>
+        <Country>United States</Country>
+        <Account_Created>1/11/09 11:50</Account_Created>
+        <Last_Login>2/3/09 12:21</Last_Login>
+        <Latitude>41.41389</Latitude>
+        <Longitude>-73.30389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 20:18</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Henrietta</Name>
+        <City>Vancouver</City>
+        <State>British Columbia</State>
+        <Country>Canada</Country>
+        <Account_Created>7/6/07 23:53</Account_Created>
+        <Last_Login>2/3/09 12:22</Last_Login>
+        <Latitude>49.25</Latitude>
+        <Longitude>-123.1333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 10:23</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>DD</Name>
+        <City>York</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>8/19/08 12:58</Account_Created>
+        <Last_Login>2/3/09 12:57</Last_Login>
+        <Latitude>53.9666667</Latitude>
+        <Longitude>-1.0833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 14:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jennifer</Name>
+        <City>Drogheda</City>
+        <State>Louth</State>
+        <Country>Ireland</Country>
+        <Account_Created>9/21/06 2:39</Account_Created>
+        <Last_Login>2/3/09 13:36</Last_Login>
+        <Latitude>53.7188889</Latitude>
+        <Longitude>-6.3477778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 10:38</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>samuel</Name>
+        <City>Saddle Brook                </City>
+        <State>NJ</State>
+        <Country>United States</Country>
+        <Account_Created>1/29/09 9:08</Account_Created>
+        <Last_Login>2/3/09 14:39</Last_Login>
+        <Latitude>40.89889</Latitude>
+        <Longitude>-74.09306</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 14:04</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Angelina  Patrick</Name>
+        <City>San Diego                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/7/09 17:01</Account_Created>
+        <Last_Login>2/3/09 14:57</Last_Login>
+        <Latitude>32.71528</Latitude>
+        <Longitude>-117.15639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/31/09 21:50</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sven</Name>
+        <City>Issaquah                    </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>1/31/09 21:01</Account_Created>
+        <Last_Login>2/3/09 16:30</Last_Login>
+        <Latitude>47.53028</Latitude>
+        <Longitude>-122.03139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 16:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Toni</Name>
+        <City>Bolton</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>10/7/08 15:19</Account_Created>
+        <Last_Login>2/3/09 16:45</Last_Login>
+        <Latitude>53.5833333</Latitude>
+        <Longitude>-2.4333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 13:13</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Patrick</Name>
+        <City>Lexington                   </City>
+        <State>MA</State>
+        <Country>United States</Country>
+        <Account_Created>1/30/09 12:44</Account_Created>
+        <Last_Login>2/3/09 17:14</Last_Login>
+        <Latitude>42.44722</Latitude>
+        <Longitude>-71.225</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 16:50</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>jason</Name>
+        <City>Altadena                    </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>12/28/08 14:42</Account_Created>
+        <Last_Login>2/3/09 18:09</Last_Login>
+        <Latitude>34.18972</Latitude>
+        <Longitude>-118.13028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 7:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>250</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Tabatha</Name>
+        <City>Altadena                    </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>12/28/08 14:42</Account_Created>
+        <Last_Login>2/3/09 18:09</Last_Login>
+        <Latitude>34.18972</Latitude>
+        <Longitude>-118.13028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 15:48</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Aline</Name>
+        <City>Davis                       </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/8/05 14:03</Account_Created>
+        <Last_Login>2/3/09 19:14</Last_Login>
+        <Latitude>38.545</Latitude>
+        <Longitude>-121.73944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 11:40</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Debra</Name>
+        <City>Toronto</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>12/30/08 6:59</Account_Created>
+        <Last_Login>2/3/09 19:42</Last_Login>
+        <Latitude>43.6666667</Latitude>
+        <Longitude>-79.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 20:27</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Natasha</Name>
+        <City>Pasadena                    </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/30/09 20:02</Account_Created>
+        <Last_Login>2/3/09 23:39</Last_Login>
+        <Latitude>34.14778</Latitude>
+        <Longitude>-118.14361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 18:35</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Melinda</Name>
+        <City>Buffalo Grove               </City>
+        <State>IL</State>
+        <Country>United States</Country>
+        <Account_Created>1/27/09 18:28</Account_Created>
+        <Last_Login>2/3/09 23:42</Last_Login>
+        <Latitude>41.98111</Latitude>
+        <Longitude>-89.595</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/16/09 12:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Luc1nda</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>12/12/04 15:18</Account_Created>
+        <Last_Login>2/4/09 2:13</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 2:50</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kim</Name>
+        <City>Newcastle</City>
+        <State>Wicklow</State>
+        <Country>Ireland</Country>
+        <Account_Created>10/12/05 6:56</Account_Created>
+        <Last_Login>2/4/09 2:19</Last_Login>
+        <Latitude>53.0683333</Latitude>
+        <Longitude>-6.0658333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 5:39</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Britlyn </Name>
+        <City>Norwalk                     </City>
+        <State>CT</State>
+        <Country>United States</Country>
+        <Account_Created>11/4/08 9:51</Account_Created>
+        <Last_Login>2/4/09 4:31</Last_Login>
+        <Latitude>41.1175</Latitude>
+        <Longitude>-73.40833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 1:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Adam</Name>
+        <City>Besancon</City>
+        <State>Franche-Comte</State>
+        <Country>France</Country>
+        <Account_Created>1/26/09 2:28</Account_Created>
+        <Last_Login>2/4/09 5:39</Last_Login>
+        <Latitude>47.25</Latitude>
+        <Longitude>6.0333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 13:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Mimi</Name>
+        <City>Monte-Carlo</City>
+        <State> </State>
+        <Country>Monaco</Country>
+        <Account_Created>9/23/06 13:19</Account_Created>
+        <Last_Login>2/4/09 6:16</Last_Login>
+        <Latitude>43.7333333</Latitude>
+        <Longitude>7.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 12:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Liann</Name>
+        <City>Monaco</City>
+        <State> </State>
+        <Country>Monaco</Country>
+        <Account_Created>1/22/09 11:32</Account_Created>
+        <Last_Login>2/4/09 6:28</Last_Login>
+        <Latitude>43.7333333</Latitude>
+        <Longitude>7.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/20/09 8:23</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Sarah</Name>
+        <City>Floyds Knobs                </City>
+        <State>IN</State>
+        <Country>United States</Country>
+        <Account_Created>10/12/05 17:17</Account_Created>
+        <Last_Login>2/4/09 8:16</Last_Login>
+        <Latitude>38.32444</Latitude>
+        <Longitude>-85.87361</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 7:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Naseer</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>12/8/08 6:45</Account_Created>
+        <Last_Login>2/4/09 8:50</Last_Login>
+        <Latitude>51.5</Latitude>
+        <Longitude>-0.1166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 4:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Caroline</Name>
+        <City>Marietta                    </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>4/12/06 18:20</Account_Created>
+        <Last_Login>2/4/09 9:22</Last_Login>
+        <Latitude>33.9525</Latitude>
+        <Longitude>-84.55</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/23/09 7:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1800</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Karena</Name>
+        <City>Marietta                    </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>4/12/06 18:20</Account_Created>
+        <Last_Login>2/4/09 9:22</Last_Login>
+        <Latitude>33.9525</Latitude>
+        <Longitude>-84.55</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 23:19</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>janet</Name>
+        <City>Hon                         </City>
+        <State>HI</State>
+        <Country>United States</Country>
+        <Account_Created>9/4/08 16:51</Account_Created>
+        <Last_Login>2/4/09 11:11</Last_Login>
+        <Latitude>21.30694</Latitude>
+        <Longitude>-157.85833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 4:29</Transaction_date>
+        <Product>Product3</Product>
+        <Price>7500</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Hans</Name>
+        <City>Knoxville                   </City>
+        <State>TN</State>
+        <Country>United States</Country>
+        <Account_Created>8/28/08 6:20</Account_Created>
+        <Last_Login>2/4/09 12:17</Last_Login>
+        <Latitude>35.96056</Latitude>
+        <Longitude>-83.92083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 4:39</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sandra  Thierry  Zoe</Name>
+        <City>Knoxville                   </City>
+        <State>TN</State>
+        <Country>United States</Country>
+        <Account_Created>8/28/08 6:20</Account_Created>
+        <Last_Login>2/4/09 12:17</Last_Login>
+        <Latitude>35.96056</Latitude>
+        <Longitude>-83.92083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 8:13</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Eleanor</Name>
+        <City>Edinburgh</City>
+        <State>Scotland</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>7/31/08 22:34</Account_Created>
+        <Last_Login>2/4/09 13:08</Last_Login>
+        <Latitude>55.95</Latitude>
+        <Longitude>-3.2</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 12:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Anna</Name>
+        <City>Paris</City>
+        <State>Ile-de-France</State>
+        <Country>France</Country>
+        <Account_Created>8/17/07 4:34</Account_Created>
+        <Last_Login>2/4/09 13:12</Last_Login>
+        <Latitude>48.8666667</Latitude>
+        <Longitude>2.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 15:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Cara </Name>
+        <City>Humble                      </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>3/12/07 14:55</Account_Created>
+        <Last_Login>2/4/09 13:29</Last_Login>
+        <Latitude>29.99861</Latitude>
+        <Longitude>-95.26194</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 14:06</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>carolien</Name>
+        <City>Mashpee                     </City>
+        <State>MA</State>
+        <Country>United States</Country>
+        <Account_Created>1/4/09 12:21</Account_Created>
+        <Last_Login>2/4/09 13:45</Last_Login>
+        <Latitude>41.64833</Latitude>
+        <Longitude>-70.48167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 17:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Ana</Name>
+        <City>Hong Kong</City>
+        <State> </State>
+        <Country>Hong Kong</Country>
+        <Account_Created>7/28/06 2:31</Account_Created>
+        <Last_Login>2/4/09 16:26</Last_Login>
+        <Latitude>22.2833333</Latitude>
+        <Longitude>114.15</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/20/09 5:01</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Patrick</Name>
+        <City>Birmingham                  </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>1/18/09 17:36</Account_Created>
+        <Last_Login>2/4/09 16:45</Last_Login>
+        <Latitude>42.54667</Latitude>
+        <Longitude>-83.21139</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 14:37</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Heidi</Name>
+        <City>St Augustine                </City>
+        <State>FL</State>
+        <Country>United States</Country>
+        <Account_Created>12/19/07 12:00</Account_Created>
+        <Last_Login>2/4/09 16:55</Last_Login>
+        <Latitude>29.89444</Latitude>
+        <Longitude>-81.31472</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 13:27</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Tom</Name>
+        <City>Salt Lake City              </City>
+        <State>UT</State>
+        <Country>United States</Country>
+        <Account_Created>1/28/09 14:47</Account_Created>
+        <Last_Login>2/4/09 20:07</Last_Login>
+        <Latitude>40.76083</Latitude>
+        <Longitude>-111.89028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 10:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Justine</Name>
+        <City>Seattle                     </City>
+        <State>WA</State>
+        <Country>United States</Country>
+        <Account_Created>1/7/09 16:45</Account_Created>
+        <Last_Login>2/4/09 20:57</Last_Login>
+        <Latitude>47.60639</Latitude>
+        <Longitude>-122.33083</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 8:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>isabel</Name>
+        <City>Ruti</City>
+        <State>Zurich</State>
+        <Country>Switzerland</Country>
+        <Account_Created>1/5/09 5:08</Account_Created>
+        <Last_Login>2/4/09 22:59</Last_Login>
+        <Latitude>47.25</Latitude>
+        <Longitude>8.85</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 16:11</Transaction_date>
+        <Product>Product3</Product>
+        <Price>7500</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>scott</Name>
+        <City>Rogers                      </City>
+        <State>AR</State>
+        <Country>United States</Country>
+        <Account_Created>1/25/09 15:55</Account_Created>
+        <Last_Login>2/5/09 0:20</Last_Login>
+        <Latitude>36.33194</Latitude>
+        <Longitude>-94.11833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 20:44</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Fatima</Name>
+        <City>Rogers                      </City>
+        <State>AR</State>
+        <Country>United States</Country>
+        <Account_Created>1/25/09 15:55</Account_Created>
+        <Last_Login>2/5/09 0:20</Last_Login>
+        <Latitude>36.33194</Latitude>
+        <Longitude>-94.11833</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 11:36</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Judy</Name>
+        <City>Dun Laoghaire</City>
+        <State>Dublin</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/26/09 7:28</Account_Created>
+        <Last_Login>2/5/09 2:38</Last_Login>
+        <Latitude>53.2925</Latitude>
+        <Longitude>-6.1286111</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 2:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Glenn</Name>
+        <City>Perth</City>
+        <State>Scotland</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>6/27/06 9:12</Account_Created>
+        <Last_Login>2/5/09 3:15</Last_Login>
+        <Latitude>56.4</Latitude>
+        <Longitude>-3.4333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 13:36</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Family in</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>4/23/05 9:46</Account_Created>
+        <Last_Login>2/5/09 3:17</Last_Login>
+        <Latitude>51.51334</Latitude>
+        <Longitude>-0.08895</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 5:53</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Lauren</Name>
+        <City>Gries</City>
+        <State>Rhineland-Palatinate</State>
+        <Country>Germany</Country>
+        <Account_Created>1/7/09 2:49</Account_Created>
+        <Last_Login>2/5/09 3:41</Last_Login>
+        <Latitude>49.4166667</Latitude>
+        <Longitude>7.4</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 1:53</Transaction_date>
+        <Product>Product3</Product>
+        <Price>7500</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Michael</Name>
+        <City>Pietermaritzburg</City>
+        <State>KwaZulu-Natal</State>
+        <Country>South Africa</Country>
+        <Account_Created>1/24/09 12:52</Account_Created>
+        <Last_Login>2/5/09 4:37</Last_Login>
+        <Latitude>-29.6166667</Latitude>
+        <Longitude>30.3833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 11:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jodi</Name>
+        <City>Sutton Valence</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>11/17/08 10:30</Account_Created>
+        <Last_Login>2/5/09 6:21</Last_Login>
+        <Latitude>51.2</Latitude>
+        <Longitude>0.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 1:46</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>simone</Name>
+        <City>Lyngby</City>
+        <State>Kobenhavn</State>
+        <Country>Denmark</Country>
+        <Account_Created>10/30/07 12:03</Account_Created>
+        <Last_Login>2/5/09 8:52</Last_Login>
+        <Latitude>55.7666667</Latitude>
+        <Longitude>12.5166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 15:57</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Sonja</Name>
+        <City>Alpine                      </City>
+        <State>NJ</State>
+        <Country>United States</Country>
+        <Account_Created>1/2/09 15:25</Account_Created>
+        <Last_Login>2/5/09 10:18</Last_Login>
+        <Latitude>40.95583</Latitude>
+        <Longitude>-73.93167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 8:50</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Shane</Name>
+        <City>Zurich</City>
+        <State>Zurich</State>
+        <Country>Switzerland</Country>
+        <Account_Created>1/24/09 12:23</Account_Created>
+        <Last_Login>2/5/09 11:07</Last_Login>
+        <Latitude>47.3666667</Latitude>
+        <Longitude>8.55</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 8:16</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Ruth</Name>
+        <City>Saskatoon</City>
+        <State>Saskatchewan</State>
+        <Country>Canada</Country>
+        <Account_Created>8/9/08 12:51</Account_Created>
+        <Last_Login>2/5/09 11:24</Last_Login>
+        <Latitude>52.1333333</Latitude>
+        <Longitude>-106.6666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 11:21</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Cleo</Name>
+        <City>Pacific Palisades           </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/27/09 10:38</Account_Created>
+        <Last_Login>2/5/09 12:38</Last_Login>
+        <Latitude>34.04806</Latitude>
+        <Longitude>-118.52556</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 10:13</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Benoit</Name>
+        <City>Fort Saint James</City>
+        <State>British Columbia</State>
+        <Country>Canada</Country>
+        <Account_Created>1/7/09 16:01</Account_Created>
+        <Last_Login>2/5/09 14:03</Last_Login>
+        <Latitude>54.4333333</Latitude>
+        <Longitude>-124.25</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 7:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Claire</Name>
+        <City>Versoix</City>
+        <State>Geneve</State>
+        <Country>Switzerland</Country>
+        <Account_Created>4/18/07 12:55</Account_Created>
+        <Last_Login>2/5/09 15:15</Last_Login>
+        <Latitude>46.2833333</Latitude>
+        <Longitude>6.1666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 9:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Claire</Name>
+        <City>Trumansburg                 </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>7/6/08 14:33</Account_Created>
+        <Last_Login>2/5/09 16:33</Last_Login>
+        <Latitude>42.54222</Latitude>
+        <Longitude>-76.66639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 12:59</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Lindsey</Name>
+        <City>Kennett Square              </City>
+        <State>PA</State>
+        <Country>United States</Country>
+        <Account_Created>1/13/09 20:08</Account_Created>
+        <Last_Login>2/5/09 18:40</Last_Login>
+        <Latitude>39.84667</Latitude>
+        <Longitude>-75.71194</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 19:28</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Nicola</Name>
+        <City>San Jose                    </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>8/5/05 0:29</Account_Created>
+        <Last_Login>2/5/09 21:10</Last_Login>
+        <Latitude>37.33944</Latitude>
+        <Longitude>-121.89389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 19:29</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>PATRICK</Name>
+        <City>Ban Khlong Sip</City>
+        <State>Krung Thep</State>
+        <Country>Thailand</Country>
+        <Account_Created>1/8/09 0:01</Account_Created>
+        <Last_Login>2/5/09 21:22</Last_Login>
+        <Latitude>13.9166667</Latitude>
+        <Longitude>100.8166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 12:04</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>jennifer</Name>
+        <City>Morro Bay                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>12/1/03 19:13</Account_Created>
+        <Last_Login>2/5/09 22:11</Last_Login>
+        <Latitude>35.36583</Latitude>
+        <Longitude>-120.84889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/4/09 16:59</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Amy</Name>
+        <City>Parramatta</City>
+        <State>New South Wales</State>
+        <Country>Australia</Country>
+        <Account_Created>1/3/09 22:35</Account_Created>
+        <Last_Login>2/5/09 22:44</Last_Login>
+        <Latitude>-33.8166667</Latitude>
+        <Longitude>151</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 11:56</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Whitney</Name>
+        <City>Dumbleton</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>7/31/08 13:46</Account_Created>
+        <Last_Login>2/6/09 0:04</Last_Login>
+        <Latitude>52.0166667</Latitude>
+        <Longitude>-1.9666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 5:10</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Astrid</Name>
+        <City>Altlengbach</City>
+        <State>Lower Austria</State>
+        <Country>Austria</Country>
+        <Account_Created>6/24/08 0:49</Account_Created>
+        <Last_Login>2/6/09 0:37</Last_Login>
+        <Latitude>48.15</Latitude>
+        <Longitude>15.9166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 3:39</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>jo</Name>
+        <City>Ballincollig</City>
+        <State>Cork</State>
+        <Country>Ireland</Country>
+        <Account_Created>12/10/08 7:41</Account_Created>
+        <Last_Login>2/6/09 2:36</Last_Login>
+        <Latitude>51.8833333</Latitude>
+        <Longitude>-8.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 3:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Michelle</Name>
+        <City>Ballincollig</City>
+        <State>Cork</State>
+        <Country>Ireland</Country>
+        <Account_Created>12/10/08 7:41</Account_Created>
+        <Last_Login>2/6/09 2:36</Last_Login>
+        <Latitude>51.8833333</Latitude>
+        <Longitude>-8.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 3:19</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>TG</Name>
+        <City>Zagore</City>
+        <State>Stara Zagora</State>
+        <Country>Bulgaria</Country>
+        <Account_Created>11/20/08 3:00</Account_Created>
+        <Last_Login>2/6/09 4:19</Last_Login>
+        <Latitude>42.35</Latitude>
+        <Longitude>25.6666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 1:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Emily</Name>
+        <City>Vecmilgravis</City>
+        <State>Riga</State>
+        <Country>Latvia</Country>
+        <Account_Created>1/4/09 10:33</Account_Created>
+        <Last_Login>2/6/09 4:20</Last_Login>
+        <Latitude>57.0333333</Latitude>
+        <Longitude>24.1</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 13:01</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Niki</Name>
+        <City>Trelex</City>
+        <State>Vaud</State>
+        <Country>Switzerland</Country>
+        <Account_Created>8/5/07 0:43</Account_Created>
+        <Last_Login>2/6/09 5:02</Last_Login>
+        <Latitude>46.4166667</Latitude>
+        <Longitude>6.2</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 2:35</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Sarah</Name>
+        <City>Ornex</City>
+        <State>Rhone-Alpes</State>
+        <Country>France</Country>
+        <Account_Created>8/28/08 6:28</Account_Created>
+        <Last_Login>2/6/09 5:09</Last_Login>
+        <Latitude>46.2833333</Latitude>
+        <Longitude>6.1</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/3/09 14:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>sherry</Name>
+        <City>Las Vegas                   </City>
+        <State>NV</State>
+        <Country>United States</Country>
+        <Account_Created>1/3/09 13:49</Account_Created>
+        <Last_Login>2/6/09 5:29</Last_Login>
+        <Latitude>36.175</Latitude>
+        <Longitude>-115.13639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 12:37</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Laura</Name>
+        <City>San Anselmo                 </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/22/09 10:17</Account_Created>
+        <Last_Login>2/6/09 6:38</Last_Login>
+        <Latitude>37.97472</Latitude>
+        <Longitude>-122.56056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 6:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Carmela</Name>
+        <City>Hannover</City>
+        <State>Lower Saxony</State>
+        <Country>Germany</Country>
+        <Account_Created>4/2/08 2:39</Account_Created>
+        <Last_Login>2/6/09 6:52</Last_Login>
+        <Latitude>52.3666667</Latitude>
+        <Longitude>9.7166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 9:45</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>Matt</Name>
+        <City>N Woodmere                  </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>12/30/08 13:01</Account_Created>
+        <Last_Login>2/6/09 7:33</Last_Login>
+        <Latitude>40.66417</Latitude>
+        <Longitude>-73.70889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 11:16</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Karen</Name>
+        <City>Madrid</City>
+        <State>Madrid</State>
+        <Country>Spain</Country>
+        <Account_Created>7/17/07 6:08</Account_Created>
+        <Last_Login>2/6/09 10:42</Last_Login>
+        <Latitude>40.4</Latitude>
+        <Longitude>-3.6833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/13/09 13:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Joanne</Name>
+        <City>Castlebar</City>
+        <State>Mayo</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/6/08 14:03</Account_Created>
+        <Last_Login>2/6/09 12:35</Last_Login>
+        <Latitude>53.85</Latitude>
+        <Longitude>-9.3</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 7:23</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Stephanie</Name>
+        <City>Fairfax                     </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/11/09 14:42</Account_Created>
+        <Last_Login>2/6/09 16:13</Last_Login>
+        <Latitude>37.98722</Latitude>
+        <Longitude>-122.58778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 4:48</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Hurst</Name>
+        <City>Chandler                    </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>6/18/08 14:29</Account_Created>
+        <Last_Login>2/6/09 17:21</Last_Login>
+        <Latitude>33.30611</Latitude>
+        <Longitude>-111.84056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 16:29</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Liza</Name>
+        <City>Dammeron Valley             </City>
+        <State>UT</State>
+        <Country>United States</Country>
+        <Account_Created>1/17/09 15:18</Account_Created>
+        <Last_Login>2/6/09 18:14</Last_Login>
+        <Latitude>37.1306</Latitude>
+        <Longitude>-113.6492</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/27/09 6:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Michele</Name>
+        <City>Buffalo                     </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/25/09 11:56</Account_Created>
+        <Last_Login>2/6/09 18:24</Last_Login>
+        <Latitude>42.88639</Latitude>
+        <Longitude>-78.87861</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 10:16</Transaction_date>
+        <Product>Product3</Product>
+        <Price>7500</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Karin</Name>
+        <City>Olive Branch                </City>
+        <State>MS</State>
+        <Country>United States</Country>
+        <Account_Created>1/12/09 17:41</Account_Created>
+        <Last_Login>2/6/09 18:48</Last_Login>
+        <Latitude>34.96167</Latitude>
+        <Longitude>-89.82944</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 18:54</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>cath</Name>
+        <City>Warwick                     </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>1/19/09 11:34</Account_Created>
+        <Last_Login>2/6/09 19:27</Last_Login>
+        <Latitude>41.25639</Latitude>
+        <Longitude>-74.36028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 22:44</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>eva</Name>
+        <City>Gisborne</City>
+        <State>Victoria</State>
+        <Country>Australia</Country>
+        <Account_Created>12/3/06 15:36</Account_Created>
+        <Last_Login>2/6/09 20:03</Last_Login>
+        <Latitude>-37.4833333</Latitude>
+        <Longitude>144.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 18:32</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Andrea </Name>
+        <City>San Mateo                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>12/31/08 17:09</Account_Created>
+        <Last_Login>2/6/09 21:59</Last_Login>
+        <Latitude>37.56306</Latitude>
+        <Longitude>-122.32444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 1:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Sabine</Name>
+        <City>Milton Keynes</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>6/24/06 15:10</Account_Created>
+        <Last_Login>2/7/09 0:26</Last_Login>
+        <Latitude>52.0333333</Latitude>
+        <Longitude>-0.7</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/20/09 8:08</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Aideen and Jonathan</Name>
+        <City>Kecskemet</City>
+        <State>Bacs-Kiskun</State>
+        <Country>Hungary</Country>
+        <Account_Created>1/19/09 5:49</Account_Created>
+        <Last_Login>2/7/09 1:12</Last_Login>
+        <Latitude>46.9</Latitude>
+        <Longitude>19.7833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 2:48</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>George</Name>
+        <City>Nakskov</City>
+        <State>Storstrom</State>
+        <Country>Denmark</Country>
+        <Account_Created>1/29/09 2:19</Account_Created>
+        <Last_Login>2/7/09 2:09</Last_Login>
+        <Latitude>54.8333333</Latitude>
+        <Longitude>11.15</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 18:02</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Helen</Name>
+        <City>Aloma                       </City>
+        <State>FL</State>
+        <Country>United States</Country>
+        <Account_Created>11/29/05 17:33</Account_Created>
+        <Last_Login>2/7/09 6:03</Last_Login>
+        <Latitude>28.60056</Latitude>
+        <Longitude>-81.30667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 8:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Diners</Payment_Type>
+        <Name>C</Name>
+        <City>Chandler                    </City>
+        <State>AZ</State>
+        <Country>United States</Country>
+        <Account_Created>1/6/09 16:23</Account_Created>
+        <Last_Login>2/7/09 6:05</Last_Login>
+        <Latitude>33.30611</Latitude>
+        <Longitude>-111.84056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 3:36</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>chris</Name>
+        <City>Kjobenhavn</City>
+        <State>Staden Kobenhavn</State>
+        <Country>Denmark</Country>
+        <Account_Created>1/20/09 13:11</Account_Created>
+        <Last_Login>2/7/09 6:52</Last_Login>
+        <Latitude>55.6666667</Latitude>
+        <Longitude>12.5833333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 15:23</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>maggie</Name>
+        <City>Stockton</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>6/12/08 10:59</Account_Created>
+        <Last_Login>2/7/09 11:08</Last_Login>
+        <Latitude>52.25</Latitude>
+        <Longitude>-2.7</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 16:17</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Mareike</Name>
+        <City>Cumming                     </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>1/24/09 18:06</Account_Created>
+        <Last_Login>2/7/09 11:28</Last_Login>
+        <Latitude>34.20722</Latitude>
+        <Longitude>-84.14028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 10:37</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>lamia</Name>
+        <City>Little Compton              </City>
+        <State>RI</State>
+        <Country>United States</Country>
+        <Account_Created>6/28/08 11:04</Account_Created>
+        <Last_Login>2/7/09 12:00</Last_Login>
+        <Latitude>41.51</Latitude>
+        <Longitude>-71.17167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/20/09 15:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Madhu</Name>
+        <City>Centennial                  </City>
+        <State>CO</State>
+        <Country>United States</Country>
+        <Account_Created>12/2/06 23:24</Account_Created>
+        <Last_Login>2/7/09 15:18</Last_Login>
+        <Latitude>39.57917</Latitude>
+        <Longitude>-104.87639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/28/09 18:00</Transaction_date>
+        <Product>Product1</Product>
+        <Price>13,000</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>sandhya</Name>
+        <City>Centennial                  </City>
+        <State>CO</State>
+        <Country>United States</Country>
+        <Account_Created>12/2/06 23:24</Account_Created>
+        <Last_Login>2/7/09 15:18</Last_Login>
+        <Latitude>39.57917</Latitude>
+        <Longitude>-104.87639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/29/09 5:06</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Kimberly</Name>
+        <City>Herndon                     </City>
+        <State>VA</State>
+        <Country>United States</Country>
+        <Account_Created>1/23/08 10:05</Account_Created>
+        <Last_Login>2/7/09 15:23</Last_Login>
+        <Latitude>38.96944</Latitude>
+        <Longitude>-77.38639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 18:53</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Tania</Name>
+        <City>Vista                       </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/5/09 22:37</Account_Created>
+        <Last_Login>2/7/09 15:48</Last_Login>
+        <Latitude>33.2</Latitude>
+        <Longitude>-117.24167</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/21/09 6:55</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>andrea</Name>
+        <City>Oostburg                    </City>
+        <State>WI</State>
+        <Country>United States</Country>
+        <Account_Created>1/20/09 13:33</Account_Created>
+        <Last_Login>2/7/09 16:48</Last_Login>
+        <Latitude>43.62278</Latitude>
+        <Longitude>-87.79444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 20:18</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>John</Name>
+        <City>Griffith</City>
+        <State>New South Wales</State>
+        <Country>Australia</Country>
+        <Account_Created>1/15/07 20:37</Account_Created>
+        <Last_Login>2/7/09 18:04</Last_Login>
+        <Latitude>-34.2833333</Latitude>
+        <Longitude>146.0333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 17:58</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>carol</Name>
+        <City>Ann Arbor                   </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>7/5/08 9:20</Account_Created>
+        <Last_Login>2/7/09 18:51</Last_Login>
+        <Latitude>42.27083</Latitude>
+        <Longitude>-83.72639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 14:37</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Nona</Name>
+        <City>South Jordan                </City>
+        <State>UT</State>
+        <Country>United States</Country>
+        <Account_Created>1/8/09 15:14</Account_Created>
+        <Last_Login>2/7/09 19:11</Last_Login>
+        <Latitude>40.56222</Latitude>
+        <Longitude>-111.92889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/25/09 2:46</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Family</Name>
+        <City>Dubai</City>
+        <State>Dubayy</State>
+        <Country>United Arab Emirates</Country>
+        <Account_Created>1/8/09 1:19</Account_Created>
+        <Last_Login>2/8/09 2:06</Last_Login>
+        <Latitude>25.2522222</Latitude>
+        <Longitude>55.28</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 20:46</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Michelle</Name>
+        <City>Dubai</City>
+        <State>Dubayy</State>
+        <Country>United Arab Emirates</Country>
+        <Account_Created>4/13/08 2:36</Account_Created>
+        <Last_Login>2/8/09 2:12</Last_Login>
+        <Latitude>25.2522222</Latitude>
+        <Longitude>55.28</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 7:18</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kathryn</Name>
+        <City>Kirriemuir</City>
+        <State>Scotland</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>1/23/09 10:31</Account_Created>
+        <Last_Login>2/8/09 2:52</Last_Login>
+        <Latitude>56.6666667</Latitude>
+        <Longitude>-3</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/11/09 7:09</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Oswald</Name>
+        <City>Tramore</City>
+        <State>Waterford</State>
+        <Country>Ireland</Country>
+        <Account_Created>10/13/08 16:43</Account_Created>
+        <Last_Login>2/8/09 3:02</Last_Login>
+        <Latitude>52.1588889</Latitude>
+        <Longitude>-7.1463889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 4:15</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Elyssa</Name>
+        <City>Gdansk</City>
+        <State>Pomorskie</State>
+        <Country>Poland</Country>
+        <Account_Created>1/7/09 15:00</Account_Created>
+        <Last_Login>2/8/09 3:50</Last_Login>
+        <Latitude>54.35</Latitude>
+        <Longitude>18.6666667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/22/09 10:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>michelle</Name>
+        <City>Arklow</City>
+        <State>Wicklow</State>
+        <Country>Ireland</Country>
+        <Account_Created>11/18/08 1:32</Account_Created>
+        <Last_Login>2/8/09 5:07</Last_Login>
+        <Latitude>52.7930556</Latitude>
+        <Longitude>-6.1413889</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 20:47</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Alicia</Name>
+        <City>Lincoln                     </City>
+        <State>NE</State>
+        <Country>United States</Country>
+        <Account_Created>6/24/08 8:05</Account_Created>
+        <Last_Login>2/8/09 7:29</Last_Login>
+        <Latitude>40.8</Latitude>
+        <Longitude>-96.66667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 12:22</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>JP</Name>
+        <City>Tierp</City>
+        <State>Uppsala</State>
+        <Country>Sweden</Country>
+        <Account_Created>1/6/09 11:34</Account_Created>
+        <Last_Login>2/8/09 11:15</Last_Login>
+        <Latitude>60.3333333</Latitude>
+        <Longitude>17.5</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 1:44</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Geraldine</Name>
+        <City>Brussels</City>
+        <State>Brussels (Bruxelles)</State>
+        <Country>Belgium</Country>
+        <Account_Created>1/31/08 13:28</Account_Created>
+        <Last_Login>2/8/09 14:39</Last_Login>
+        <Latitude>50.8333333</Latitude>
+        <Longitude>4.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 12:57</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>sandra</Name>
+        <City>Burr Oak                    </City>
+        <State>IA</State>
+        <Country>United States</Country>
+        <Account_Created>1/24/08 16:11</Account_Created>
+        <Last_Login>2/8/09 15:30</Last_Login>
+        <Latitude>43.45889</Latitude>
+        <Longitude>-91.86528</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/24/09 21:26</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Olivia</Name>
+        <City>Wheaton                     </City>
+        <State>IL</State>
+        <Country>United States</Country>
+        <Account_Created>5/8/08 16:02</Account_Created>
+        <Last_Login>2/8/09 16:00</Last_Login>
+        <Latitude>41.86611</Latitude>
+        <Longitude>-88.10694</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 12:26</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Tom</Name>
+        <City>Killeen                     </City>
+        <State>TX</State>
+        <Country>United States</Country>
+        <Account_Created>1/26/09 5:23</Account_Created>
+        <Last_Login>2/8/09 17:33</Last_Login>
+        <Latitude>31.11694</Latitude>
+        <Longitude>-97.7275</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/5/09 7:37</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Annette </Name>
+        <City>Manhattan                   </City>
+        <State>NY</State>
+        <Country>United States</Country>
+        <Account_Created>9/26/08 4:29</Account_Created>
+        <Last_Login>2/8/09 18:42</Last_Login>
+        <Latitude>40.71417</Latitude>
+        <Longitude>-74.00639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 12:33</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>SUSAN</Name>
+        <City>Oxford</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>9/11/08 23:23</Account_Created>
+        <Last_Login>2/8/09 23:00</Last_Login>
+        <Latitude>51.75</Latitude>
+        <Longitude>-1.25</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/14/09 0:15</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Michael</Name>
+        <City>Paris</City>
+        <State>Ile-de-France</State>
+        <Country>France</Country>
+        <Account_Created>11/28/08 0:07</Account_Created>
+        <Last_Login>2/9/09 1:30</Last_Login>
+        <Latitude>48.8666667</Latitude>
+        <Longitude>2.3333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/1/09 12:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>ashton</Name>
+        <City>Exeter</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>12/15/08 1:16</Account_Created>
+        <Last_Login>2/9/09 2:52</Last_Login>
+        <Latitude>50.7</Latitude>
+        <Longitude>-3.5333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 6:07</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Scott</Name>
+        <City>Rungsted</City>
+        <State>Frederiksborg</State>
+        <Country>Denmark</Country>
+        <Account_Created>12/27/08 14:29</Account_Created>
+        <Last_Login>2/9/09 4:20</Last_Login>
+        <Latitude>55.8841667</Latitude>
+        <Longitude>12.5419444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 5:11</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Pam</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>7/11/06 12:43</Account_Created>
+        <Last_Login>2/9/09 4:42</Last_Login>
+        <Latitude>51.52721</Latitude>
+        <Longitude>0.14559</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/17/09 4:03</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Lisa </Name>
+        <City>Borja</City>
+        <State>Bohol</State>
+        <Country>Philippines</Country>
+        <Account_Created>1/17/09 2:45</Account_Created>
+        <Last_Login>2/9/09 6:09</Last_Login>
+        <Latitude>9.9136111</Latitude>
+        <Longitude>124.0927778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 10:13</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Pavel</Name>
+        <City>London</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>2/28/06 5:35</Account_Created>
+        <Last_Login>2/9/09 6:57</Last_Login>
+        <Latitude>51.51334</Latitude>
+        <Longitude>-0.08895</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 9:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Richard</Name>
+        <City>Jamestown                   </City>
+        <State>RI</State>
+        <Country>United States</Country>
+        <Account_Created>1/18/09 9:22</Account_Created>
+        <Last_Login>2/9/09 8:30</Last_Login>
+        <Latitude>41.49694</Latitude>
+        <Longitude>-71.36778</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 11:14</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jasinta Jeanne</Name>
+        <City>Owings Mills                </City>
+        <State>MD</State>
+        <Country>United States</Country>
+        <Account_Created>1/9/09 10:43</Account_Created>
+        <Last_Login>2/9/09 9:17</Last_Login>
+        <Latitude>39.41944</Latitude>
+        <Longitude>-76.78056</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/10/09 13:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Rachel</Name>
+        <City>Hamilton</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/10/09 12:22</Account_Created>
+        <Last_Login>2/9/09 9:54</Last_Login>
+        <Latitude>43.25</Latitude>
+        <Longitude>-79.8333333</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/7/09 7:28</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Cherish </Name>
+        <City>Anchorage                   </City>
+        <State>AK</State>
+        <Country>United States</Country>
+        <Account_Created>7/28/08 7:31</Account_Created>
+        <Last_Login>2/9/09 10:50</Last_Login>
+        <Latitude>61.21806</Latitude>
+        <Longitude>-149.90028</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/18/09 6:46</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Shona </Name>
+        <City>Mornington</City>
+        <State>Meath</State>
+        <Country>Ireland</Country>
+        <Account_Created>1/15/09 9:13</Account_Created>
+        <Last_Login>2/9/09 11:55</Last_Login>
+        <Latitude>53.7233333</Latitude>
+        <Longitude>-6.2825</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/30/09 12:18</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Mastercard</Payment_Type>
+        <Name>Abikay</Name>
+        <City>Fullerton                   </City>
+        <State>CA</State>
+        <Country>United States</Country>
+        <Account_Created>1/26/09 13:34</Account_Created>
+        <Last_Login>2/9/09 12:53</Last_Login>
+        <Latitude>33.87028</Latitude>
+        <Longitude>-117.92444</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/6/09 5:42</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Abikay</Name>
+        <City>Atlanta                     </City>
+        <State>GA</State>
+        <Country>United States</Country>
+        <Account_Created>10/27/08 14:16</Account_Created>
+        <Last_Login>2/9/09 13:50</Last_Login>
+        <Latitude>33.74889</Latitude>
+        <Longitude>-84.38806</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/2/09 10:58</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Kendra</Name>
+        <City>Toronto</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/2/09 10:38</Account_Created>
+        <Last_Login>2/9/09 13:56</Last_Login>
+        <Latitude>43.6666667</Latitude>
+        <Longitude>-79.4166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 3:29</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>amanda</Name>
+        <City>Liverpool</City>
+        <State>England</State>
+        <Country>United Kingdom</Country>
+        <Account_Created>12/22/08 1:41</Account_Created>
+        <Last_Login>2/9/09 14:06</Last_Login>
+        <Latitude>53.4166667</Latitude>
+        <Longitude>-3</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/12/09 13:23</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>Leila</Name>
+        <City>Ponte San Nicolo</City>
+        <State>Veneto</State>
+        <Country>Italy</Country>
+        <Account_Created>9/13/05 8:42</Account_Created>
+        <Last_Login>2/9/09 14:09</Last_Login>
+        <Latitude>45.3666667</Latitude>
+        <Longitude>11.6166667</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/19/09 9:34</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Amex</Payment_Type>
+        <Name>amanda</Name>
+        <City>Las Vegas                   </City>
+        <State>NV</State>
+        <Country>United States</Country>
+        <Account_Created>5/10/08 8:56</Account_Created>
+        <Last_Login>2/9/09 16:44</Last_Login>
+        <Latitude>36.175</Latitude>
+        <Longitude>-115.13639</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/9/09 7:49</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Stacy</Name>
+        <City>Rochester Hills             </City>
+        <State>MI</State>
+        <Country>United States</Country>
+        <Account_Created>7/28/08 7:18</Account_Created>
+        <Last_Login>2/9/09 17:41</Last_Login>
+        <Latitude>42.68056</Latitude>
+        <Longitude>-83.13389</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/15/09 5:27</Transaction_date>
+        <Product>Product2</Product>
+        <Price>3600</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Derrick</Name>
+        <City>North Bay</City>
+        <State>Ontario</State>
+        <Country>Canada</Country>
+        <Account_Created>1/6/09 17:42</Account_Created>
+        <Last_Login>2/9/09 18:22</Last_Login>
+        <Latitude>46.3</Latitude>
+        <Longitude>-79.45</Longitude>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/8/09 23:40</Transaction_date>
+        <Product>Product1</Product>
+        <Price>1200</Price>
+        <Payment_Type>Visa</Payment_Type>
+        <Name>Jacob</Name>
+        <City>Lindfield</City>
+        <State>New South Wales</State>
+        <Country>Australia</Country>
+        <Account_Created>1/8/09 17:52</Account_Created>
+        <Last_Login>2/9/09 18:31</Last_Login>
+        <Latitude>-33.7833333</Latitude>
+        <Longitude>151.1666667</Longitude>
+    </Sale>
+</Sales>
