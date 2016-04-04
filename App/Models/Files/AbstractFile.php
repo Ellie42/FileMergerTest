@@ -20,25 +20,45 @@ class AbstractFile
 
     public function __construct(FileStrategyInterface $strategy, $filePathString)
     {
-        $this->setStrategy($strategy);
         $this->setFilePath($filePathString);
+        $this->setStrategy($strategy);
     }
 
+    /**
+     * Set the file strategy for parsing different file types
+     * @param FileStrategyInterface $strategy
+     */
     protected function setStrategy(FileStrategyInterface $strategy)
     {
         $this->strategy = $strategy;
     }
 
+    /**
+     * Set the mapper
+     * @param AbstractFileMapper $mapper
+     */
     public function setMapper(AbstractFileMapper $mapper)
     {
         $this->mapper = $mapper;
     }
 
     /**
-     * @param mixed $filePath
+     * @param string $filePath
      */
     public function setFilePath($filePath)
     {
         $this->filePath = $filePath;
+    }
+
+    public function getItems()
+    {
+        $items = [];
+
+        //Iterate all items stored in the file and add a populated model to the items list
+        $this->strategy->iterateItems($this->filePath, function ($itemArray) use (&$items) {
+            $items[] = $this->mapper->map($itemArray);
+        });
+
+        return $items;
     }
 }

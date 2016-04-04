@@ -16,5 +16,19 @@ class FileCombiner
 
     public function addFile(AbstractFile $file){
         $this->files[] = $file;
+        return $this;
+    }
+
+    /**
+     * Gets the data from all the files and merges them together as a single array
+     * @return array
+     */
+    public function toArray()
+    {
+        $dataArray = [];
+        foreach($this->files as $file){
+            $dataArray = array_merge($file->getItems(),$dataArray);
+        }
+        return $dataArray;
     }
 }

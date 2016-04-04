@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Sales>
+    <Sale>
+        <Transaction_date>1/26/09 10:24</Transaction_date>
+        <Product>Product1</Product>
+    </Sale>
+    <Sale>
+        <Transaction_date>1/26/09 8:58</Transaction_date>
+        <Product>Product1</Product>
+    </Sale>
+</Sales>

@@ -9,6 +9,12 @@
 namespace App\Mappers;
 
 
-class AbstractFileMapper
+abstract class AbstractFileMapper
 {
+    /**
+     * Takes the raw data array from a file and returns a model or array with the data
+     * @param array $data
+     * @return mixed
+     */
+    abstract public function map(array $data);
 }
